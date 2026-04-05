@@ -31,6 +31,8 @@
 
 ---
 
+Created by [@titanwings](https://github.com/titanwings) | Powered by Shanghai AI Lab · AI Safety Center
+
 ## Поддерживаемые источники данных
 
 > Это пока бета-версия коллега.skill — скоро добавим больше источников, следите за обновлениями!

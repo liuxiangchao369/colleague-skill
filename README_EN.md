@@ -31,6 +31,8 @@ and get an **AI Skill that actually works like them**
 
 ---
 
+Created by [@titanwings](https://github.com/titanwings) | Powered by Shanghai AI Lab · AI Safety Center
+
 ## Supported Data Sources
 
 > This is still a beta version of colleague.skill — more sources coming soon, stay tuned!

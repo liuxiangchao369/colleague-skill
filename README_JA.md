@@ -31,6 +31,8 @@
 
 ---
 
+Created by [@titanwings](https://github.com/titanwings) | Powered by Shanghai AI Lab · AI Safety Center
+
 ## 対応データソース
 
 > これはまだ同僚.skillのベータ版です——今後さらに多くのソースに対応予定です！

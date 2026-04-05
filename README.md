@@ -31,6 +31,8 @@
 
 ---
 
+Created by [@titanwings](https://github.com/titanwings) | Powered by Shanghai AI Lab · AI Safety Center
+
 > **April 4th Update：** 新增了两个示例同事——一个做安全的工程师和一个有趣的 HR，在 `colleagues/` 目录下，欢迎体验！
 
 
